@@ -1,13 +1,13 @@
 const images = {
-    1: { src: 'https://drive.google.com/uc?export=view&id=1iOhQ2gdkXpPp7C576kHivMZczEidAj5c' },
-    2: { src: 'https://drive.google.com/uc?export=view&id=1KfR3LgapJwKugVKR6-bi32NEDtF8881p' },
-    3: { src: 'https://drive.google.com/uc?export=view&id=1MO40p_gUPjd6uma3eafPINhqAYdE3I0T' },
-    4: { src: 'https://drive.google.com/uc?export=view&id=1oajmDIRnfeXbOrbruDczImD3lzVnSqRe' },
-    5: { src: 'https://drive.google.com/uc?export=view&id=1AixNZQsQaENNOFLMs4-AMlSCjKf31Zmn' },
-    6: { src: 'https://drive.google.com/uc?export=view&id=1qKOiyzZbUzdW7fUZdi46Z7Tv4z5FBq9P' },
-    7: { src: 'https://drive.google.com/uc?export=view&id=1u-7KPO4KB9uyQ_ZJqSTI2IRi7sM-yief' },
-    8: { src: 'https://drive.google.com/uc?export=view&id=1Ty8st7x1kQ2ptshB5MGv8dVCb5tDN_Bi' },
-    9: { src: 'https://drive.google.com/uc?export=view&id=1SmodwmCe3hrOKVVOu22eWQROSanQNMOs' }
+    1: { src: 'https://imgur.com/QFHp5ym' },
+    2: { src: 'https://imgur.com/XLxDij9' },
+    3: { src: 'https://imgur.com/vG0nffF' },
+    4: { src: 'https://imgur.com/IAl0pQH' },
+    5: { src: 'https://imgur.com/qKZXV9V' },
+    6: { src: 'https://imgur.com/59gSuPz' },
+    7: { src: 'https://imgur.com/wOp2Aom' },
+    8: { src: 'https://imgur.com/FnVLlel' },
+    9: { src: 'https://imgur.com/bEeUP9n' }
 };
 
 const gameBoard = document.getElementById('gameBoard');
